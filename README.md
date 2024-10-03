@@ -27,11 +27,8 @@ Data was retrieved from the NCBI SRA database.
 ## **Read Mapping (Incomplete)**
 **Tool Used**: HISAT2
 - Prepared the reference genome and initiated alignment using HISAT2.
-- Conversion and sorting of SAM/BAM files were noted but not fully completed.
+- Conversion and sorting of SAM/BAM files were noted.
 
-## **Challenges**
-- **Time Constraints**: Limited completion of mapping and further analysis.
-- **Unfinished Mapping**: Partially generated SAM file limited further downstream analyses.
 
 ## **Tools**
 - **SRA Toolkit**: Downloading sequencing data.
