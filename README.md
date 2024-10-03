@@ -1,7 +1,7 @@
 # **RNA-Seq Analysis: Quality Control and Read Mapping**
 
 ## **Project Overview**
-This project covers RNA-Seq data preprocessing, focusing on quality control, trimming of paired-end sequencing reads, and initial read mapping. I worked with colon cancer and normal tissue samples using tools like FastQC, Trimmomatic, and HISAT2. Due to time constraints, not all workflow steps were completed.
+This project covers RNA-Seq data preprocessing, focusing on quality control, trimming of paired-end sequencing reads, and initial read mapping. I worked with colon cancer and normal tissue samples using tools like FastQC.
 
 ## **Objectives**
 The main goals were to clean and preprocess RNA-Seq data, improve read quality through trimming, and initiate read mapping to a reference genome.
