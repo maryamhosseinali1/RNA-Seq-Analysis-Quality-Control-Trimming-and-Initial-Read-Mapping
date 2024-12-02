@@ -24,7 +24,7 @@ Data was retrieved from the NCBI SRA database.
 - Read length between 80-150 bp.
 - Improved overall read quality scores.
 
-## **Read Mapping (Incomplete)**
+## **Read Mapping **
 **Tool Used**: HISAT2
 - Prepared the reference genome and initiated alignment using HISAT2.
 - Conversion and sorting of SAM/BAM files were noted.
